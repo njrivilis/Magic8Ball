@@ -11,7 +11,7 @@
    }
     
     div.eight-ball {
-      background-color: black;
+      background-color: green;
       border: 1px solid black;
       border-radius: 50%;
       width: 300px;
@@ -22,7 +22,7 @@
     }
     
     div.answer {
-      background-color: #333;
+      background-color: lightblue;
       border: 1px solid #333;
       border-radius: 50%;
       width: 50%;
@@ -38,9 +38,9 @@
     
     p#answer {
       padding: 23px;
-      color: lightblue;
+      color: yellow;
       letter-spacing: 2px;
-      font-size:18px;
+      font-size:23px;
     }
     
     #question {
@@ -51,5 +51,5 @@
     }
     
     #info {
-      font-size: 22px;
+      font-size: 24px;
     }
