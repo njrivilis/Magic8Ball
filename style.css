@@ -11,8 +11,8 @@
    }
     
     div.eight-ball {
-      background-color: green;
-      border: 1px solid black;
+      background-color: rgb(44, 182, 228);
+      border: 5px solid #2C5AE4;
       border-radius: 50%;
       width: 300px;
       height: 300px;
@@ -22,28 +22,28 @@
     }
     
     div.answer {
-      background-color: lightblue;
-      border: 1px solid #333;
+      background-color: #2CE4B6;
+      border: 5px solid #2C5AE4;
       border-radius: 50%;
-      width: 50%;
-      height: 50%;
+      width: 70%;
+      height: 70%;
       margin: 25% auto;
     }
     
     p#eight {
-      font-size: 5em;
+      font-size: 2em;
       margin: 20% auto;
-      color: white;
+      color: black;
     }
     
     p#answer {
       padding: 23px;
-      color: yellow;
+      color: #2C5AE4;
       letter-spacing: 2px;
-      font-size:23px;
+      font-size:2em;
     }
     
-    #question {
+    #numberGuessed {
       margin: 20px;
       padding: 10px;
       width: 400px;
